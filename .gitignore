@@ -55,3 +55,4 @@ target/
 
 # VS Code
 .vscode/
+.factorypath
