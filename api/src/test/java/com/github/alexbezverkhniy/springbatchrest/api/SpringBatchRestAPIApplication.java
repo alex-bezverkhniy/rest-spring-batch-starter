@@ -1,4 +1,4 @@
-package com.github.alexbezverkhniy.api;
+package com.github.alexbezverkhniy.springbatchrest.api;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;

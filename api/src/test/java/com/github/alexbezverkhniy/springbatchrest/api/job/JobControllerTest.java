@@ -1,4 +1,4 @@
-package com.github.alexbezverkhniy.api.job;
+package com.github.alexbezverkhniy.springbatchrest.api.job;
 
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
