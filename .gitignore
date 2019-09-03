@@ -53,3 +53,5 @@ gradle-app.setting
 log/
 target/
 
+# VS Code
+.vscode/
